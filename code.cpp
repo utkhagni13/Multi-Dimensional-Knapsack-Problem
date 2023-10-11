@@ -541,7 +541,7 @@ int main(int argc, char **argv)
     }
     cout << endl
          << "The max value of the knapsack is: " << max_value << endl
-         << OPTIMUM << endl;
+         << "The optimum value of the knapsack is: " << OPTIMUM << endl;
 
     return 0;
 }
